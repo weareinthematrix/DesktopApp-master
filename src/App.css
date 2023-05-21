@@ -1,0 +1,14 @@
+.logo.vite:hover {
+  filter: drop-shadow(0 0 2em #747bff);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafb);
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  gap : 3rem;
+  width : 13rem;
+}
